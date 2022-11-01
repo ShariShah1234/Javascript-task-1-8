@@ -106,10 +106,10 @@ alert(message);
 
 
 
- var message = "Thanks,";
- var userName = "User";
- var ajmal = "!";
- var usermessage = message + userName + ajmal;
+ message = "Thanks,";
+ userName = "User";
+ ajmal = "!";
+ usermessage = message + userName + ajmal;
  alert(usermessage);
 
 
