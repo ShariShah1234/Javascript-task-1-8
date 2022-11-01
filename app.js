@@ -22,7 +22,7 @@ var x = "Mark";
 
 var x="shari";
 var y="shari";
-var c="shari":;
+var c="shari";
 
 
 //chapter no: 3 "Variables for Numbers"
@@ -106,11 +106,11 @@ alert(message);
 
 
 
-1 var message = "Thanks,";
-2 var userName = "User";
-3 var ajmal = "!";
-4 var usermessage = message + userName + ajmal;
-5 alert(usermessage);
+ var message = "Thanks,";
+ var userName = "User";
+ var ajmal = "!";
+ var usermessage = message + userName + ajmal;
+ alert(usermessage);
 
 
 
